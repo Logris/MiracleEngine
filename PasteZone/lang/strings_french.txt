@@ -1,3 +1,0 @@
-<?php
-
-$s_plugin_PasteZone_pastehere = "Coller";
